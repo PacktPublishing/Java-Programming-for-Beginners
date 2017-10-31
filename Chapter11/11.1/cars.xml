@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<cars>
+	<owner name="Billy">
+		<car vin="LJPCBLCX11000237">
+			<make>Ford</make>
+			<model>Fusion</model>
+			<year>2014</year>
+			<color>Blue</color>
+		</car>
+		<car vin="LGHIALCX89880011">
+			<make>Toyota</make>
+			<model>Tacoma</model>
+			<year>2013</year>
+			<color>Green</color>
+		</car>
+		<car vin="GJSIALSS22000567">
+			<make>Dodge</make>
+			<model>Charger</model>
+			<year>2013</year>
+			<color>Red</color>
+		</car>
+	</owner>
+	<owner name="Jane">
+		<car vin="LLOKAJSS55548563">
+			<make>Nissan</make>
+			<model>Altima</model>
+			<year>2000</year>
+			<color>Green</color>
+		</car>
+		<car vin="OOKINAFS98111001">
+			<make>Dodge</make>
+			<model>Challenger</model>
+			<year>2013</year>
+			<color>Red</color>
+		</car>
+	</owner>
+</cars>
