@@ -30,5 +30,4 @@ public class HelloWorld {
 
 * [Modular Programming in Java 9](https://www.packtpub.com/application-development/modular-programming-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781787126909)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
